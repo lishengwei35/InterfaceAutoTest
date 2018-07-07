@@ -1,0 +1,45 @@
+[
+  {
+    "description":"这是一个以json格式的用户名和密码的登陆接口",
+    "request":{
+      "uri":"/login",
+      "method":"post",
+      "headers":{
+        "content-type":"application/json"
+      },
+      "json":{
+        "name":"huhansan",
+        "password":"123456"
+      }
+    },
+    "response":{
+      "status":200,
+      "cookies":{
+        "login":"ok"
+      },
+      "json":{
+        "响应":"恭喜你登陆成了，我给你返回的cookies，方便进行下一步操作"
+      }
+    }
+  },
+  {
+    "description":"登陆成功后进行查询操作",
+    "request":{
+      "uri":"/userinfo",
+      "method":"post",
+      "cookies":{
+        "login":"ok"
+      }
+    },
+    "response":{
+      "status":200,
+      "json":{
+        "响应":"查询成功",
+        "name":"huhansan",
+        "password":"123456"
+      }
+    }
+
+  }
+
+]
