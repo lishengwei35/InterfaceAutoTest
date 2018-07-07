@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="926541a7-0a8a-448e-b7cd-cb5e3fb2d9b7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/comlswInterface1/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/comlswInterface1/comlswInterface1.iml" afterPath="$PROJECT_DIR$/comlswInterface1/comlswInterface1.iml" />
+      <change beforePath="$PROJECT_DIR$/comlswInterface1/pom.xml" afterPath="$PROJECT_DIR$/comlswInterface1/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/comlswInterface1/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,18 +20,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/comlswInterface1/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AnalogInterface.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/comlswInterface1/AnalogInterface.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+            <state relative-caret-position="259">
+              <caret line="86" column="4" lean-forward="false" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -38,43 +31,70 @@
         <entry file="file://$PROJECT_DIR$/comlswInterface1/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+              <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SQLMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/comlswInterface1/src/main/resources/mapper/SQLMapper.xml">
+      <file leaf-file-name="ExtentTestNGIReporterListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/comlswInterface1/src/main/java/com/course/config/ExtentTestNGIReporterListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="353">
+              <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#6113#6126#0" expanded="true" />
+                <element signature="e#6127#6358#0" expanded="true" />
+                <element signature="e#6357#6358#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/comlswInterface1/src/main/resources/testng.xml">
+      <file leaf-file-name="TestConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/comlswInterface1/src/main/java/com/course/config/TestConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="273">
+              <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="databaseConfig.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/comlswInterface1/src/main/resources/databaseConfig.xml">
+      <file leaf-file-name="ConfigFile.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/comlswInterface1/src/main/java/com/course/utils/ConfigFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="189">
+              <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InterfaceName.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/comlswInterface1/src/main/java/com/course/model/InterfaceName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -89,6 +109,12 @@
       <list>
         <option value="$PROJECT_DIR$/comlswInterface1/AnalogInterface.json" />
         <option value="$PROJECT_DIR$/comlswInterface1/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/comlswInterface1/src/main/java/com/course/model/LoginCase.java" />
+        <option value="$PROJECT_DIR$/comlswInterface1/pom.xml" />
+        <option value="$PROJECT_DIR$/comlswInterface1/src/main/java/com/course/config/ExtentTestNGIReporterListener.java" />
+        <option value="$PROJECT_DIR$/comlswInterface1/src/main/java/com/course/config/TestConfig.java" />
+        <option value="$PROJECT_DIR$/comlswInterface1/src/main/java/com/course/model/InterfaceName.java" />
+        <option value="$PROJECT_DIR$/comlswInterface1/src/main/java/com/course/utils/ConfigFile.java" />
       </list>
     </option>
   </component>
@@ -98,15 +124,22 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand />
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="467" />
-    <option name="y" value="125" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="479" />
+    <option name="y" value="117" />
     <option name="width" value="1430" />
     <option name="height" value="817" />
   </component>
@@ -155,6 +188,43 @@
               <item name="comlswInterface1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="comlswInterface1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="comlswInterface1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="comlswInterface1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="comlswInterface1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
@@ -291,15 +361,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530961591623</updated>
-      <workItem from="1530961596079" duration="2247000" />
+      <workItem from="1530961596079" duration="5051000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2247000" />
+    <option name="totallyTimeSpent" value="5051000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="467" y="125" width="1430" height="817" extended-state="1" />
+    <frame x="479" y="117" width="1430" height="817" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -341,14 +411,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/comlswInterface1/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/comlswInterface1/AnalogInterface.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -357,15 +419,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/comlswInterface1/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/comlswInterface1/src/main/java/com/course/model/LoginCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        <state relative-caret-position="168">
+          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/comlswInterface1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="86" column="4" lean-forward="false" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comlswInterface1/src/main/java/com/course/config/ExtentTestNGIReporterListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6113#6126#0" expanded="true" />
+            <element signature="e#6127#6358#0" expanded="true" />
+            <element signature="e#6357#6358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/comlswInterface1/src/main/resources/mapper/SQLMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comlswInterface1/src/main/resources/databaseConfig.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -381,11 +472,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/comlswInterface1/src/main/resources/databaseConfig.xml">
+    <entry file="file://$PROJECT_DIR$/comlswInterface1/src/main/java/com/course/model/InterfaceName.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="63">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comlswInterface1/src/main/java/com/course/config/TestConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comlswInterface1/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comlswInterface1/src/main/java/com/course/utils/ConfigFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
